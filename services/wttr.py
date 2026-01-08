@@ -1,5 +1,4 @@
 from dacite import from_dict
-from dataclasses import fields
 from json import loads
 from urllib.request import urlopen
 
